@@ -13,12 +13,12 @@ DEMO
 8. Select the workflow from left sidebar and check the logs and results.
 
 TERMINIOLOGY USED
-WORKFLOW: Collection of jobs, defined in yaml file
-name:
-EVENTS: any activity in the repo that can trigger a workflow
-on:
-JOBS: Collections of steps
-jobs:
-STEPS: Action to be taken, commands, scripts
-steps:
-Chain Jobs: needs
+1. WORKFLOW: Collection of jobs, defined in yaml file
+   name:
+2. EVENTS: any activity in the repo that can trigger a workflow
+   on:
+3. JOBS: Collections of steps
+   jobs:
+4. STEPS: Action to be taken, commands, scripts
+   steps:
+5. Chain Jobs: needs
